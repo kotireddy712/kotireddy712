@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @kotireddy712
+### 👋 Hi, I’m 
 
 - 👀 I’m interested in Competitive Programming,Web Development and Problem Solving.  
 - 🌱 I’m currently learning React and exploring advanced Data Structures and Algorithms.  
